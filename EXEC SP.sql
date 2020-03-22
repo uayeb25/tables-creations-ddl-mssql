@@ -1,0 +1,1 @@
+EXEC example.clean_all_tables
